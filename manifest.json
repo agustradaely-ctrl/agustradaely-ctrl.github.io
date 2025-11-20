@@ -1,7 +1,7 @@
 {
-  "name": "Photo Booth Pro",
+  "name": "PhotoBooth",
   "short_name": "PhotoBooth", 
-  "description": "Professional Photo Booth Studio App",
+  "description": "Professional PhotoBooth Studio App",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0f0f1a",
